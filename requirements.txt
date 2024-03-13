@@ -1,4 +1,4 @@
-deepface==0.0.79
+deepface==0.0.80
 opencv-python-headless==4.8.0.74
 spotipy
 streamlit==1.25.0
