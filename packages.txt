@@ -1,4 +1,2 @@
-dlib
 libgl1
-opencv-python
-deepface
+
