@@ -1,6 +1,6 @@
 deepface==0.0.79
 opencv-python-headless==4.8.0.74
 spotipy
-streamlit
+streamlit==1.25.0
 Pillow==9.5.0
 numpy
